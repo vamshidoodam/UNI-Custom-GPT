@@ -23,8 +23,7 @@ UNI was designed as a domain-focused AI assistant using custom instructions, pro
 
 ## Demo
 
-**Live Custom GPT:**  
-Coming soon
+**Live Custom GPT:** [Open UNI](https://chatgpt.com/g/g-6a58bcfcee7881919d4aa63c682ce7cc-uni-agent)
 
 ## Screenshots
 
