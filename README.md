@@ -27,7 +27,17 @@ UNI was designed as a domain-focused AI assistant using custom instructions, pro
 
 ## Screenshots
 
-Screenshots demonstrating UNI's configuration and conversational capabilities will be added here.
+### UNI Interface
+
+![UNI Interface](screenshots/uni-interface.png)
+
+### Knowledge-Grounded Response
+
+![UNI Knowledge Grounding](screenshots/uni-knowledge-grounding.png)
+
+### Structured Learning Response
+
+![UNI Structured Learning](screenshots/uni-structured-learning.png)
 
 ## Purpose
 
